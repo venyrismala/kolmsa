@@ -1,0 +1,3 @@
+function nextFunction() {
+    //add ads
+}
